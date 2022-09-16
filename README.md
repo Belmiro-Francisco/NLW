@@ -4,7 +4,7 @@
 
 > TRILHA EXPLORER
 
-Projecto construído no evento Next level Week da Rockeseat
+Projecto construído no evento Next Level Week da Rockeseat
 
 [Clique aqui para acessar](https://belmiro-francisco.github.io/nlw-esports-explorer/)
 
